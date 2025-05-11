@@ -32,3 +32,11 @@ python app.py
 ```
 
 4. You can now add and delete tasks using the graphical interface.
+
+### Explanation:
+
+1. This application uses Tkinter to build the graphical user interface (GUI).
+
+2. The tasks are saved in an SQLite database and can be retrieved after the application is closed.
+
+3. Users can add and remove tasks using the simple graphical interface.
