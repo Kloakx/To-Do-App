@@ -40,3 +40,6 @@ python app.py
 2. The tasks are saved in an SQLite database and can be retrieved after the application is closed.
 
 3. Users can add and remove tasks using the simple graphical interface.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
