@@ -14,7 +14,7 @@ env/
 .vscode/
 .idea/
 
-# MacOS
+# macOS
 .DS_Store
 
 # Windows
